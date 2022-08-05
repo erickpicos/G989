@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>G989</title>
+	<atom:link href="/G989/feed/" rel="self" type="application/rss+xml" />
+	<link>/G989/</link>
+	<description>Investigaciones y Análisis</description>
+	<lastBuildDate>Mon, 03 Jan 2022 21:18:35 +0000</lastBuildDate>
+	<language>es-MX</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
+	<item>
+		<title>Análisis OSINT aplicado en la contrainteligencia corporativa</title>
+		<link>/G989/osint-en-la-inteligencia-y-contrainteligencia-corporativa/</link>
+					<comments>/G989/osint-en-la-inteligencia-y-contrainteligencia-corporativa/#respond</comments>
+		
+		<dc:creator><![CDATA[G989Admin]]></dc:creator>
+		<pubDate>Mon, 03 Jan 2022 20:50:34 +0000</pubDate>
+				<category><![CDATA[detectives privados]]></category>
+		<category><![CDATA[Investigación de fuentes abiertas]]></category>
+		<category><![CDATA[OSINT]]></category>
+		<category><![CDATA[Análisis de OSINT]]></category>
+		<category><![CDATA[contraespionaje]]></category>
+		<category><![CDATA[contraespionaje corporativo]]></category>
+		<category><![CDATA[contrainteligencia corporativa]]></category>
+		<category><![CDATA[espionaje]]></category>
+		<category><![CDATA[herramienta de fuentes abiertas]]></category>
+		<category><![CDATA[Informes OSINT]]></category>
+		<category><![CDATA[inteligencia corporativa]]></category>
+		<category><![CDATA[Investigaciones corporativas]]></category>
+		<category><![CDATA[investigaciones de fuentes abiertas]]></category>
+		<category><![CDATA[investigaciones empresariales]]></category>
+		<category><![CDATA[investigaciones OSINT]]></category>
+		<category><![CDATA[ley de proteccion de datos]]></category>
+		<category><![CDATA[OSINT México]]></category>
+		<category><![CDATA[protección de datos personales en México]]></category>
+		<category><![CDATA[protección patrimonial]]></category>
+		<category><![CDATA[seguridad patrimonial]]></category>
+		<guid isPermaLink="false">/G989/?p=12125</guid>
+
+					<description><![CDATA[<p>The post <a rel="nofollow" href="/G989/osint-en-la-inteligencia-y-contrainteligencia-corporativa/">Análisis OSINT aplicado en la contrainteligencia corporativa</a> appeared first on <a rel="nofollow" href="/G989">G989</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p style="text-align: justify;">La contrainteligencia se puede definir como el conjunto de actividades cuyo objetivo es evitar que los servicios de inteligencia externos (ya sean de otros países o de otras empresas, en este caso) adquieran información relevante sobre aspectos esenciales del funcionamiento o la estructura de un Estado o una empresa, especialmente acerca de sus estrategias, planes, procedimientos, recursos, activos o personas clave.</p>
+<p style="text-align: justify;">La contrainteligencia, en muchos contextos es sinónimo de &#8220;contraespionaje&#8221;, ya que una de sus principales misiones es &#8220;evitar el espionaje contra la propia organización&#8221;.</p>
+<p style="text-align: justify;">Para el equipo de G989 es una actividad común interpretar los resultados arrojados por plataformas de Inteligencia de fuentes abiertas u «Open Source Intelligence» (OSINT) que hace referencia al conocimiento recopilado a partir de fuentes de acceso público. Es una herramienta que permite a las grandes corporaciones realizar análisis generales del perfil de personal en posiciones que pudieran representar un riesgo de filtrar información sensible que pudiera poner en peligro la economía, datos confidenciales y el patrimonio de la empresa en general.</p>
+<p style="text-align: justify;">En el mundo jurídico, los datos personales son aquellos relacionados a la persona natural e identificable. Es decir: toda información que permite identificar a un individuo como nombre y apellidos, domicilio, teléfono, historial laboral y académico, sus datos patrimoniales y financieros, su firma, así como sus características físicas, incluyendo datos biométricos como el iris o la huella dactilar.</p>
+<p style="text-align: justify;">El proceso de búsqueda, selección y adquisición de la información, así como un posterior procesado y análisis de la misma se ejecuta con el fin de obtener conocimiento útil y aplicable en distintos ámbitos permite generar informes OSINT, que según el nivel de privacidad de usuario puede arrojarnos diferentes datos relevantes, como por ejemplo: A nombre de quien(es) ha sido registrado un teléfono o correo electrónico públicamente; Redes sociales asociadas a un teléfono o correo (Facebook, Twitter, LinkedIn, Instagram, entre otras) con perfiles públicos; Genero; Fecha de nacimiento; Nicknames o apodos; Fotografías públicas; Direcciones de residencia; Sitios de trabajo, entre otros.</p>
+<p style="text-align: justify;">La Ley de Protección de Datos permite el tratamiento de datos personales por organizaciones y empresas en determinadas situaciones, pero siempre teniendo como objetivo preservar al usuario. Sin embargo, para eso, es necesario que exista consentimiento o legítimo interés en el uso de los datos en cuestión.  Los datos personales también pueden ser considerados “sensibles” cuando dan a conocer información íntima de la persona. Son datos sensibles aquellos que revelan el origen racial o étnico, estado de salud, ideología, opiniones políticas, orientación sexual, y otros.</p>
+<p style="text-align: justify;">En México, el tratamiento de este tipo de dato recibe un mayor control a través de la Ley de Protección de Datos, ya que su uso indebido puede originar discriminación o, en otros casos, riesgo para la persona dueña de los datos. Por eso, es indispensable que las empresas evalúen la necesidad de utilizar esos datos.</p>
+<p style="text-align: justify;">Están obligadas por la Ley de Protección de Datos en México todas las empresas del sector privado que obtengan, usen, almacenen y/o transfieran datos personales como parte de sus actividades. Para aplicar la ley que protege a los datos de los usuarios, son establecidos algunos principios por la Ley de Protección de Datos como la licitud, consentimiento, siempre que sea necesario deberá obtenerse el consentimiento de los titulares para el tratamiento de sus datos personales; debe ser de conocimiento del titular la información relacionada con el tratamiento de sus datos. Finalidad, el tratamiento de datos debe cumplir las finalidades establecidas en el aviso de privacidad presentado al usuario; Lealtad de proteger los intereses del titular y la expectativa razonable de privacidad al tratar los datos personales y responsabilidad, la empresa debe responder por el tratamiento de los datos personales recolectados.</p>
+<p style="text-align: justify;">En G989 investigaciones y análisis no incitamos a la mala praxias del tratamiento de datos personales, más bien, invitamos a que las corporaciones y la industria privada en general ejecute planes de contrainteligencia corporativa en manos de personal calificado. Que sean capaces de mantener a salvo el patrimonio de la empresa previniendo ataques a través de trabajos de inteligencia, siempre actuando al margen en obediencia de la ley.</p>
+<p style="text-align: justify;">
+
+		</div>
+	</div>
+</div></div></div></div>
+<p>The post <a rel="nofollow" href="/G989/osint-en-la-inteligencia-y-contrainteligencia-corporativa/">Análisis OSINT aplicado en la contrainteligencia corporativa</a> appeared first on <a rel="nofollow" href="/G989">G989</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/G989/osint-en-la-inteligencia-y-contrainteligencia-corporativa/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Rastreo y localización de teléfonos celulares</title>
+		<link>/G989/guia-de-rastreo-y-localizacion-de-telefonos-celulares/</link>
+					<comments>/G989/guia-de-rastreo-y-localizacion-de-telefonos-celulares/#respond</comments>
+		
+		<dc:creator><![CDATA[G989Admin]]></dc:creator>
+		<pubDate>Mon, 01 Nov 2021 18:06:11 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Geolocalizacion]]></category>
+		<category><![CDATA[Búsqueda de teléfonos celulares]]></category>
+		<category><![CDATA[como encontrar un movil]]></category>
+		<category><![CDATA[como rastrear un telefono]]></category>
+		<category><![CDATA[encontrar mi celular]]></category>
+		<category><![CDATA[geolocalización celular en tiempo real]]></category>
+		<category><![CDATA[Geolocalización de celulares]]></category>
+		<category><![CDATA[geolocalización de teléfono en tiempo real]]></category>
+		<category><![CDATA[geolocalización en tiempo real]]></category>
+		<category><![CDATA[Geolocalizar telefono sin apps]]></category>
+		<category><![CDATA[geolocalizar teléfono sin GPS]]></category>
+		<category><![CDATA[Geolocalizar telefono sin hacks]]></category>
+		<category><![CDATA[geolocalizar un teléfono celular con solo el número telefónico]]></category>
+		<category><![CDATA[localización de celular en tiempo real]]></category>
+		<category><![CDATA[localizacion de telefonos]]></category>
+		<category><![CDATA[rastrear celular sin apps]]></category>
+		<category><![CDATA[Rastrear celular sin gps]]></category>
+		<category><![CDATA[Rastrear celular sin hacks]]></category>
+		<category><![CDATA[Rastrear celular sin software]]></category>
+		<category><![CDATA[Rastreo de celular en tiempo real]]></category>
+		<category><![CDATA[rastreo de telefonos moviles]]></category>
+		<category><![CDATA[Ubicar telefono]]></category>
+		<category><![CDATA[ubicar teléfono sin apps]]></category>
+		<category><![CDATA[ubicar teléfono sin GPS]]></category>
+		<category><![CDATA[ubicar telefono sin hacks]]></category>
+		<category><![CDATA[ubicar un celular con solo el numero]]></category>
+		<guid isPermaLink="false">/G989/?p=12095</guid>
+
+					<description><![CDATA[<p>The post <a rel="nofollow" href="/G989/guia-de-rastreo-y-localizacion-de-telefonos-celulares/">Rastreo y localización de teléfonos celulares</a> appeared first on <a rel="nofollow" href="/G989">G989</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<h3>G989 investigaciones y análisis presenta la guía completa de rastreo y localización de teléfonos celulares.</h3>
+<p>Antes de empezar con este artículo, responderemos preguntas muy frecuentes entre nuestros lectores en relación con este tema:</p>
+<ul>
+<li>¿Es posible geolocalizar un teléfono celular con solo el número telefónico?</li>
+<li>¿Es posible saber la ubicación de un teléfono celular sin instalar ningún software o programa?</li>
+<li>¿Se puede rastrear un teléfono sin acceso físico o remoto a este?</li>
+<li>¿La geolocalización de equipos celulares ofrece la ubicación exacta?</li>
+<li>¿El equipo de G989 me puede ayudar a ubicar un teléfono?</li>
+</ul>
+<p>LA RESPUESTA ES SI, CON ALGUNAS CONDICIONANTES Y LIMITANTES.</p>
+<p>Este análisis ofrece una explicación detallada sobre como funcionan los sistemas de localización o georreferenciación de teléfonos celulares SIN REQUERIR de instalaciones de aplicaciones, spywares, virus, troyanos, GPS, acceso físico al móvil, ingeniería social o similares.</p>
+<p>Al escribir en Google palabras de búsqueda como:</p>
+<ul>
+<li>Rastrear un teléfono</li>
+<li>Saber la ubicación de un celular</li>
+<li>Geolocalizar un teléfono</li>
+<li>Localizar a una persona por el celular</li>
+</ul>
+<p>Encontraremos cientos de paginas que ofrecen este servicio con una condicionante muy clara y que le resta valor, o bien, lo hace inviable: “es requerido que en teléfono de la víctima sea instalada de manera transparente o clandestina una aplicación móvil o software”. Si bien es lógico este requerimiento, generalmente para entes gubernamentales, investigadores y detectives privados, vuelve la investigación no factible, pues normalmente el rastreo es requerido sin levantar sospechas en la victima.</p>
+<p>Presentamos 3 caminos para conocer la ubicación (georreferencia) de un teléfono en tiempo real sin levantar sospechas en la victima o dejar algún rastro, y el jugador clave que brinda esta posibilidad es “<strong>la operadora o compañía de servicios telefónicos</strong>” con las siguientes condiciones:</p>
+<ul>
+<li>Que sea un celular o teléfono móvil</li>
+<li>Que sea conocido el número telefónico o IMSI de la victima</li>
+<li>Que el móvil este encendido</li>
+<li>Que el móvil tenga un chip o tarjeta SIM</li>
+<li>Que el móvil no esté en modo avión</li>
+<li>Que la línea este activa</li>
+</ul>
+<p>Las antenas que dan servicios a los celulares están configuradas en celdas o células, donde cada célula corresponde al área de servicio o cobertura de señal que brinda una radiobase, por eso los dispositivos móviles se conocen como “celular”. Cada radiobase se comunica con los celulares de su área de cobertura y les brinda servicio, la operadora o compañía de servicios telefónicos registra constantemente a que antena se reportan sus suscriptores.</p>
+<p>Recuérdese que para conocer ubicaciones pasadas, existe la sabana telefónica; para más detalles sobre esta herramienta, consulte:</p>
+<p><a href="/G989/servicios-de-investigaciones-detectives-privados-empresariales/sabanas-telefonicas-telcel-movistar-att/">/G989/servicios</a><a href="/G989/servicios-de-investigaciones-detectives-privados-empresariales/sabanas-telefonicas-telcel-movistar-att/">&#8211;</a><a href="/G989/servicios-de-investigaciones-detectives-privados-empresariales/sabanas-telefonicas-telcel-movistar-att/">de</a><a href="/G989/servicios-de-investigaciones-detectives-privados-empresariales/sabanas-telefonicas-telcel-movistar-att/">&#8211;</a><a href="/G989/servicios-de-investigaciones-detectives-privados-empresariales/sabanas-telefonicas-telcel-movistar-att/">investigaciones</a><a href="/G989/servicios-de-investigaciones-detectives-privados-empresariales/sabanas-telefonicas-telcel-movistar-att/">&#8211;</a><a href="/G989/servicios-de-investigaciones-detectives-privados-empresariales/sabanas-telefonicas-telcel-movistar-att/">detectives</a><a href="/G989/servicios-de-investigaciones-detectives-privados-empresariales/sabanas-telefonicas-telcel-movistar-att/">&#8211;</a><a href="/G989/servicios-de-investigaciones-detectives-privados-empresariales/sabanas-telefonicas-telcel-movistar-att/">privados</a><a href="/G989/servicios-de-investigaciones-detectives-privados-empresariales/sabanas-telefonicas-telcel-movistar-att/">empresariales/sabanas</a><a href="/G989/servicios-de-investigaciones-detectives-privados-empresariales/sabanas-telefonicas-telcel-movistar-att/">&#8211;</a><a href="/G989/servicios-de-investigaciones-detectives-privados-empresariales/sabanas-telefonicas-telcel-movistar-att/">telefonicas</a><a href="/G989/servicios-de-investigaciones-detectives-privados-empresariales/sabanas-telefonicas-telcel-movistar-att/">&#8211;</a><a href="/G989/servicios-de-investigaciones-detectives-privados-empresariales/sabanas-telefonicas-telcel-movistar-att/">telcel</a><a href="/G989/servicios-de-investigaciones-detectives-privados-empresariales/sabanas-telefonicas-telcel-movistar-att/">&#8211;</a><a href="/G989/servicios-de-investigaciones-detectives-privados-empresariales/sabanas-telefonicas-telcel-movistar-att/">movistar</a><a href="/G989/servicios-de-investigaciones-detectives-privados-empresariales/sabanas-telefonicas-telcel-movistar-att/">&#8211;</a><a href="/G989/servicios-de-investigaciones-detectives-privados-empresariales/sabanas-telefonicas-telcel-movistar-att/">att/</a></p>
+<p>&nbsp;</p>
+<h4>Camino #1</h4>
+<p>Las agencias de aplicación de ley o investigación criminal normalmente poseen la facultad jurídica para obligar a las operadoras de telefonía a proporcionar dicha información. Según la tecnología de la cual se disponga, es posible que las instituciones se conecten directamente a los núcleos informáticos de los prestadores de servicios de telecomunicaciones y dispongan de la información de manera inmediata; cuando no es posible, las agencias solicitan la información vía email o correspondencia variando el tiempo de respuesta.</p>
+<p>El rango de certeza que se puede obtener por esta ruta esta entre los 50 y 300 metros; se usan parámetros estandarizados en telecomunicaciones como:</p>
+<ul>
+<li>Triangulación</li>
+<li>Trilateralización o multilateralización</li>
+<li>Proximidad</li>
+<li>Fingerprinting</li>
+</ul>
+<p>Para conocer a detalle estos métodos revise <a href="https://blog.telecom.pucp.edu.pe/index.php/2016/06/14/geolocalizacion-de-telefonos-celulares/">https://blog.telecom.pucp.edu.pe/index.php/2016/06/14/geolocalizacion</a><a href="https://blog.telecom.pucp.edu.pe/index.php/2016/06/14/geolocalizacion-de-telefonos-celulares/">&#8211;</a><a href="https://blog.telecom.pucp.edu.pe/index.php/2016/06/14/geolocalizacion-de-telefonos-celulares/">de</a><a href="https://blog.telecom.pucp.edu.pe/index.php/2016/06/14/geolocalizacion-de-telefonos-celulares/">&#8211;</a><a href="https://blog.telecom.pucp.edu.pe/index.php/2016/06/14/geolocalizacion-de-telefonos-celulares/">telefonos</a><a href="https://blog.telecom.pucp.edu.pe/index.php/2016/06/14/geolocalizacion-de-telefonos-celulares/">&#8211;</a><a href="https://blog.telecom.pucp.edu.pe/index.php/2016/06/14/geolocalizacion-de-telefonos-celulares/">celulares/</a></p>
+<p>&nbsp;</p>
+<h4>Camino #2</h4>
+<p>Algunas empresas que han desarrollado software capaz de explorar vulnerabilidades de protocolos de interconexión entre compañías de telefonía móvil; o bien realizan convenios ilegales para sacar provecho en conjunto.</p>
+<p>Con diferentes técnicas es posible entonces conocer la celda a la que un móvil se está reportando.</p>
+<p>El rango de cobertura de celda genera la georreferencia del móvil. A través de cierto tipo de intercepciones sigilosas e indetectables es posible obtener la zona de ubicación de cualquier móvil en tiempo real con márgenes de 500 m hasta 3 km o más.</p>
+<p>Por la inmediatez, existen muchas instituciones de seguridad que adquieren paquetes o licencias de este servicio el cual normalmente se comercializa por consulta.</p>
+<h4>¿Posee usted alguna necesidad de geolocalización en tiempo real de tipo? El equipo de G989 esta listo para evaluar su caso implementando herramientas y técnicas de este tipo.</h4>
+<p><img class="alignnone wp-image-12103 size-large" src="/G989/wp-content/uploads/2021/11/rastreo-telefono-celular-1024x576.jpg" alt="" width="1024" height="576" srcset="/G989/wp-content/uploads/2021/11/rastreo-telefono-celular-1024x576.jpg 1024w, /G989/wp-content/uploads/2021/11/rastreo-telefono-celular-300x169.jpg 300w, /G989/wp-content/uploads/2021/11/rastreo-telefono-celular-768x432.jpg 768w, /G989/wp-content/uploads/2021/11/rastreo-telefono-celular.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /><img loading="lazy" class="alignnone wp-image-12104 size-large" src="/G989/wp-content/uploads/2021/11/saber-localizacion-telefono-1024x576.jpg" alt="" width="1024" height="576" srcset="/G989/wp-content/uploads/2021/11/saber-localizacion-telefono-1024x576.jpg 1024w, /G989/wp-content/uploads/2021/11/saber-localizacion-telefono-300x169.jpg 300w, /G989/wp-content/uploads/2021/11/saber-localizacion-telefono-768x432.jpg 768w, /G989/wp-content/uploads/2021/11/saber-localizacion-telefono.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+<p>En G989 te invitamos a considerar que:</p>
+<ul>
+<li>Algunos operadores han establecido métodos de seguridad que impiden este tipo de técnicas</li>
+<li>Es requerido en algunas ocasiones que el prestador de servicio contenga una base de datos de Cell-ID, de lo contrario los resultados pueden variar excesivamente.</li>
+<li>Algunos softwares permiten obtener la última ubicación de un móvil, aun cuando este se encuentre apagado, pero la mayoría no.</li>
+</ul>
+<h4>Camino #3</h4>
+<p>Se sabe de la existencia de softwares mas avanzados de uso militar desarrollados por empresas o departamentos de defensa de países potencia, capaces de realizar infecciones aprovechando vulnerabilidades de sistemas operativos o aplicaciones. Dichos softwares se pueden instalar con solo abrir un simple SMS, liga o hasta con solo atender una llamada, y están diseñados para no dejar rastro.</p>
+<p>Normalmente este tipo de sistema no están disponibles ni siquiera a muchos gobiernos, y poseen costos millonarios, pues además de ser indetectable, pueden tomar el control del GPS, micrófono y cámara del móvil; son considerados como “armas cibernéticas” y su venta es vigilada y restringida.</p>
+
+		</div>
+	</div>
+</div></div></div></div>
+<p>The post <a rel="nofollow" href="/G989/guia-de-rastreo-y-localizacion-de-telefonos-celulares/">Rastreo y localización de teléfonos celulares</a> appeared first on <a rel="nofollow" href="/G989">G989</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/G989/guia-de-rastreo-y-localizacion-de-telefonos-celulares/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>¿Cuáles son las cualidades de un buen detective privado?</title>
+		<link>/G989/detectives-investigadores-privados-cdmx/</link>
+					<comments>/G989/detectives-investigadores-privados-cdmx/#respond</comments>
+		
+		<dc:creator><![CDATA[G989Admin]]></dc:creator>
+		<pubDate>Wed, 27 Oct 2021 19:39:39 +0000</pubDate>
+				<category><![CDATA[detectives privados]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[detectives corporativos]]></category>
+		<category><![CDATA[detectives particulares]]></category>
+		<category><![CDATA[detectives privados cdmx]]></category>
+		<category><![CDATA[detectives privados México]]></category>
+		<category><![CDATA[detectives telefónicos]]></category>
+		<category><![CDATA[investigaciones personales]]></category>
+		<category><![CDATA[investigaciones telefonicas]]></category>
+		<category><![CDATA[investigaciones telefonicas corporativas]]></category>
+		<category><![CDATA[investigaciones telefonicas empresariales]]></category>
+		<category><![CDATA[investigadores empresariales]]></category>
+		<category><![CDATA[investigadores privados]]></category>
+		<category><![CDATA[investigadores privados corporativos]]></category>
+		<category><![CDATA[investigadores privados en mexico]]></category>
+		<guid isPermaLink="false">/G989/?p=12083</guid>
+
+					<description><![CDATA[<p>The post <a rel="nofollow" href="/G989/detectives-investigadores-privados-cdmx/">¿Cuáles son las cualidades de un buen detective privado?</a> appeared first on <a rel="nofollow" href="/G989">G989</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p>Usualmente el que contrata un servicio privado de investigación espera que los investigadores privados manejen todos los casos de manera ética y profesional, al tiempo que mantengan un buen juicio y confidencialidad. Un investigador privado eficaz posee la experiencia, las habilidades y la tenacidad necesarias para llevar adelante un caso en su totalidad. A menudo, estos investigadores han invertido recursos en su educación a través de cursos de capacitación avanzada y están dispuestos a ir más allá para hacer su trabajo de la mejor manera.</p>
+<p>Ya sea que sea un investigador de una fuerza policial o gubernamental, o que trabaje en forma privada; el investigador debe desarrollar varias habilidades y cualidades para convertirse en un investigador eficaz y resolver sus casos. Durante una investigación, recopilará información de evidencia física y testigos, analizará la evidencia para resolver un crimen o problema. A continuación presentamos una lista con los 10 rasgos principales que debe tener un buen detective privado, investigador privado o investigador corporativo.</p>
+<p><strong>Analista y solucionador de problemas :</strong> Todas las investigaciones requieren una buena mente lógica y analítica. Cada cliente suele presentar uno o varios casos en el mismo momento, es necesario tener una mente hábil en la solución de problemas para poder ofrecer la mejor opción para cada planteamiento.</p>
+<p><strong>Determinación y perseverancia :</strong> Un buen investigador privado no se rinde fácilmente. A veces los casos suelen ser aislados y hay que ser paciente y perseverante para conseguir la información deseada.</p>
+<p><strong>Empático y compasivo :</strong> Los clientes privados a menudo están extremadamente preocupados o estresados ​​y necesitan que alguien los escuche y comprenda.</p>
+<p><strong>Sensibilidad:  </strong>Se espera que los investigadores manejen los casos de manera rápida y eficiente. Como resultado, los investigadores privados más eficaces son expertos en la gestión del tiempo. Esto incluye responder a correos electrónicos y llamadas telefónicas de manera rápida, así como mantener líneas abiertas de comunicación con el cliente y las partes relacionadas. La satisfacción del cliente está directamente relacionada con la capacidad del investigador para estar disponible para el cliente las 24 horas del día, los 7 días de la semana.</p>
+<p><strong>Organización: </strong>Es probable que tenga más de un cliente a la vez. Cuando se trata de varios casos, debe mantenerse organizado para mantenerlos separados. Sin las habilidades organizativas adecuadas, es fácil mezclar pruebas o perder el enfoque. Tener un sistema confiable es esencial para un detective privado, considerando la información confidencial que está manejando. Busque algunas técnicas sencillas para mantenerse organizado<strong>. </strong>“Un lugar para todo, y todo en su lugar” es una gran regla para garantizar que todo esté justo donde lo necesita.</p>
+<p><strong>Conocimientos legales sólidos:</strong> La capacitación de investigador privado incluye educación sobre los códigos, leyes y estatutos relevantes, y cómo esas ordenanzas se aplican a su trabajo. Los detectives privados a menudo deben presentar pruebas en un entorno legal, por lo que vale la pena estar preparado para los procedimientos judiciales. Una buena regla general es tratar cada investigación como si pudiera ir a juicio.</p>
+<p><strong> </strong><strong>Confidencialidad: </strong>Si bien los investigadores privados no están oficialmente obligados por los mismos acuerdos de confidencialidad que los abogados o los médicos, un buen detective privado respetará esto. Un investigador privado eficaz mantiene estrictos niveles de confidencialidad en todas las interacciones. Además, debe tener una política de confidencialidad y debe estar dispuesto a articular los pasos que se han tomado para garantizar la confidencialidad.</p>
+<p><strong>Honesto y confiable:</strong> Un buen detective privado no utiliza prácticas deshonestas o ilegales.</p>
+<p><strong>Habilidades de pensamiento crítico: </strong>Un investigador privado toma cientos de decisiones cuando lleva a cabo una investigación. Y el éxito de una investigación depende de la calidad de sus decisiones. Los investigadores privados profesionales no permiten que las emociones se interpongan en el camino de una investigación. Entienden la necesidad de objetividad en la recopilación de pruebas y cómo analizar la información sin sesgos. También tienen un conocimiento firme de la ley en su estado, por lo que pueden tomar decisiones en el mejor interés del cliente.</p>
+<p><strong>Sentido común :</strong> Muchas veces las pistas de un caso indican hacia donde dirigir la investigación, y aunque no se vea a simple vista, el sentido común podría acercarte a la respuesta. ¿Quién querría contratar a un investigador privado sin sentido común?</p>
+<p>Desde cónyuges infieles hasta fraudes de compensación laboral, nuestro equipo de investigadores privados de G989 utilizan los mejores métodos para encontrar las respuestas a sus preguntas. Contáctanos al WhatsApp o al correo electrónico para programar una consulta y discutir su caso sin costo alguno. En G989 contamos con los mejores detectives privados en todo México.</p>
+
+		</div>
+	</div>
+</div></div></div></div>
+<p>The post <a rel="nofollow" href="/G989/detectives-investigadores-privados-cdmx/">¿Cuáles son las cualidades de un buen detective privado?</a> appeared first on <a rel="nofollow" href="/G989">G989</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/G989/detectives-investigadores-privados-cdmx/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Sábanas telefónicas ¿Qué son y para qué sirven?</title>
+		<link>/G989/analisis-de-sabanas-telefonicas-telcel-movistar-att/</link>
+					<comments>/G989/analisis-de-sabanas-telefonicas-telcel-movistar-att/#respond</comments>
+		
+		<dc:creator><![CDATA[G989Admin]]></dc:creator>
+		<pubDate>Fri, 01 Oct 2021 07:08:12 +0000</pubDate>
+				<category><![CDATA[Sábanas telefónicas]]></category>
+		<category><![CDATA[analisis de CDR]]></category>
+		<category><![CDATA[analisis de datos]]></category>
+		<category><![CDATA[analisis de sabanas de telefonía ¿]]></category>
+		<category><![CDATA[analizar CDR]]></category>
+		<category><![CDATA[Analizar registros de llamadas]]></category>
+		<category><![CDATA[analizar sabanas]]></category>
+		<category><![CDATA[detectives privados]]></category>
+		<category><![CDATA[geolocalizaciones]]></category>
+		<category><![CDATA[informacion personal]]></category>
+		<category><![CDATA[informacion privada]]></category>
+		<category><![CDATA[investigación telefonica]]></category>
+		<category><![CDATA[investigadores empresariales]]></category>
+		<category><![CDATA[investigadores privados]]></category>
+		<category><![CDATA[lectura de sábanas telefonicas]]></category>
+		<category><![CDATA[profesionales de telefonia]]></category>
+		<category><![CDATA[registros geográficos]]></category>
+		<category><![CDATA[registros telefonicos]]></category>
+		<category><![CDATA[Sabana Movistar]]></category>
+		<category><![CDATA[sabanas AT&T]]></category>
+		<category><![CDATA[Sabanas en Mexico]]></category>
+		<category><![CDATA[sabanas telcel]]></category>
+		<category><![CDATA[ubicacion de personas]]></category>
+		<category><![CDATA[ubicar personas]]></category>
+		<guid isPermaLink="false">/G989/?p=11995</guid>
+
+					<description><![CDATA[<p>Sábanas telefónicas, ¿Qué son y para qué sirven? Esto es un resumen de las ventajas y desventajas de las sabanas telefónicas o registros telefónicos.</p>
+<p>The post <a rel="nofollow" href="/G989/analisis-de-sabanas-telefonicas-telcel-movistar-att/">Sábanas telefónicas ¿Qué son y para qué sirven?</a> appeared first on <a rel="nofollow" href="/G989">G989</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p style="text-align: justify;">Si usted es un profesional del derecho y/o experto(a) en temas seguridad y defensa, analista de inteligencia, o una persona bastante curiosa en temas de investigación, es importante que usted conozca de este asunto, por favor, tómese unos minutos y analícelo a detalle.</p>
+<p style="text-align: justify;">El constante e incesante uso de teléfonos celulares, les proporciona a las agencias de investigación, investigadores, y entes de aplicación de justicia, la herramienta más común y de mayor utilidad a la hora de afrontar una investigación, la famosa sabana telefónica o detalle de llamadas o historial telefónico o registro de llamadas. Desde una perspectiva más técnica, la sabana telefónica puede ser concebida como archivo generado por la operadora de servicios de telefonía móvil o fijo en el que se registra y expone la metadata de todos los eventos (llamadas, SMS, MMS, etc.) de un determinado número telefónico, en un periodo de tiempo de 3 o más meses; normalmente son presentados en tablas en un archivo de Excel o archivos .csv separados por comas.</p>
+<p style="text-align: justify;">La información es de bastante utilidad, pues muestra con cuales números se comunica su objetivo vía llamada GSM o vía SMS, hora y fecha de todos los eventos de voz, datos y SMS, georreferencias de las ubicaciones de evento, duración de llamadas, entre otros.<br />
+Recuerde, solo metadata, no el contenido especifico de un mensaje de texto, audio de llamada, mensajes de whatsapps y plataformas similares.<br />
+La cantidad de datos que se pueden obtener a partir de una sábana telefónica es de MUY alto valor para cualquier analista, defensor o investigador.</p>
+<h3 style="text-align: center;">Enlistamos casos de utilidad para que usted, amigo lector, tenga una referencia objetiva y precisa de los beneficios que le puede aportar en su proceso de investigación</h3>
+<ul style="text-align: justify;">
+<li style="text-align: left;">Costo muy accesible.</li>
+<li style="text-align: left;">Saber detalles del portador de una línea telefónica.</li>
+<li style="text-align: left;">Determinar comportamientos atípicos o irregulares de una línea telefónica.</li>
+<li style="text-align: left;">Conocer las zonas geográficas en la que estuvo su objetivo un dia en particular.</li>
+<li style="text-align: left;">Conocer las zonas geográficas en la que estuvieron 2 o más teléfonos durante un periodo de tiempo en particular para determinar una posible reunión.</li>
+<li style="text-align: left;">Conocer las zonas geográficas que más frecuenta su objetivo.</li>
+<li style="text-align: left;">Determinar el mapa de calor del objetivo en determinada zona geográfica.</li>
+<li style="text-align: left;">Detectar eventos y/o ubicaciones sospechosas en correlación con un caso de investigación.</li>
+<li style="text-align: left;">Determinar patrones y ciclos de movilidad, viajes, visitas atípicas.</li>
+<li style="text-align: left;">Generar redes de vínculos entre 2 o más personas u organizaciones, basados en el nivel de comunicaciones que tengan.</li>
+<li style="text-align: left;">Determinar cuáles son los números con los que frecuentemente se comunica su target.</li>
+<li style="text-align: left;">Determinar cuál o cuales son los números telefónicos con los que su objetivo se comunicó en un dia y hora en particular.</li>
+<li style="text-align: left;">Mitigar sospechas sobre qué tipo de relación existe entre 2 o más personas basado en la cantidad de eventos telefónicos.</li>
+<li style="text-align: left;">Precisar vínculos de primer o segundo nivel entre dos o más personas.</li>
+<li style="text-align: left;">Precisar las características del móvil o móviles asociados a una línea telefónica, es decir, cual es el modelo del teléfono celular.</li>
+</ul>
+<h3 style="text-align: justify;">Por otro lado, también exponemos una serie de factores que le restan valor a la sabana telefónica:</h3>
+<ul style="text-align: justify;">
+<li style="text-align: left;">La adquisición de sabanas en el mercado negro y sin los procedimientos legales adecuados, supone serios riesgos legales, pues en cualquier país supone ello una invasión a la privacidad.</li>
+<li style="text-align: left;">La telefonía prepago o desechable y la venta sin un registro previo y serio de una línea telefónica supone en algunos países un problema bastante grave para determinar una relación entre una persona y una línea telefónica; en México, por ejemplo, es bastante sencillo adquirir una línea y teléfono móvil sin proporcionar documentación alguna, lo que facilita la extorsión y delitos de este tipo, por consiguiente, dificulta mucho las investigaciones.</li>
+<li style="text-align: left;"> El rango de cobertura genera la georreferencia del móvil, pero no es una ubicación exacta. La georreferenciación de llamadas permite determinar la posición de un dispositivo de telefonía móvil, pero lo hace con un margen de error que puede ir desde 0,5 hasta 5 kilómetros o más.</li>
+<li style="text-align: left;">En todo momento la red de telefonía sabe en qué celda está un dispositivo, para direccionar las llamadas entrantes o servicios de datos a esa radio-base específica. Sólo cuando se realiza o recibe una llamada entrante o saliente es que se genera un registro de la llamada con la duración, costo, origen, destino y radiobase en la cual fue realizada la llamada. Las llamadas o eventos de datos (whatsapp, Telegram, Skype, tango, Messenger, entre otras) también generan un registro similar, pero no registran el destino (cuando la llamada es saliente) u origen (cuando la llamada es entrante), siempre y cuando se hagan con la red del operador de telefonía móvil. Si no hay interacción del teléfono con el prestador de servicios de telefonía móvil, no existirán registros.</li>
+<li style="text-align: left;">El uso de plataformas de mensajería instantánea dificulta determinar patrones más certeros de comunicación entre 2 o mas personas</li>
+<li style="text-align: left;">En las sábanas telefónicas no se aprecian detalles de uso de datos, ip, url, o datos de conversaciones, solo se refleja como un consumo genérico de datos por parte de la línea telefónica.</li>
+</ul>
+<p style="text-align: justify;">Les dejamos el siguiente ejemplo de como se ve una sábana telefónica original. Al recibir la sábana telefónica, nuestros analistas especializados comienzan a tratar los datos para facilitar su análisis, transformando la sábana original a un documento Excel más fácil de interpretar. Por ejemplo:</p>
+<p style="text-align: justify;"><img loading="lazy" class="alignnone wp-image-12025 size-large" src="/G989/wp-content/uploads/2021/10/analizar-sabana-telefonica-1024x576.jpg" alt="" width="1024" height="576" srcset="/G989/wp-content/uploads/2021/10/analizar-sabana-telefonica-1024x576.jpg 1024w, /G989/wp-content/uploads/2021/10/analizar-sabana-telefonica-300x169.jpg 300w, /G989/wp-content/uploads/2021/10/analizar-sabana-telefonica-768x432.jpg 768w, /G989/wp-content/uploads/2021/10/analizar-sabana-telefonica.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+<p style="text-align: Justify;">Se aplican técnicas especiales de análisis de datos para extraer la mayor cantidad de información que se pueda de una sábana telefónica, información y detalles que pudieran significar la evidencia de algún acto delictivo, de infidelidad o de que su objetivo no es quien dice ser. A través de distintos software de análisis y gráfica de datos podemos obtener información detallada como:</p>
+<p style="text-align: justify;"><img loading="lazy" class="alignnone wp-image-11550 size-large" src="/G989/wp-content/uploads/2021/07/sabana-de-llamadas-sms-analisis-ubicaciones-desaparicion-investigacion-llamadas-1024x469.png" alt="" width="1024" height="469" srcset="/G989/wp-content/uploads/2021/07/sabana-de-llamadas-sms-analisis-ubicaciones-desaparicion-investigacion-llamadas-1024x469.png 1024w, /G989/wp-content/uploads/2021/07/sabana-de-llamadas-sms-analisis-ubicaciones-desaparicion-investigacion-llamadas-300x137.png 300w, /G989/wp-content/uploads/2021/07/sabana-de-llamadas-sms-analisis-ubicaciones-desaparicion-investigacion-llamadas-768x352.png 768w, /G989/wp-content/uploads/2021/07/sabana-de-llamadas-sms-analisis-ubicaciones-desaparicion-investigacion-llamadas-1536x703.png 1536w, /G989/wp-content/uploads/2021/07/sabana-de-llamadas-sms-analisis-ubicaciones-desaparicion-investigacion-llamadas-2048x938.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+<p style="text-align: justify;">Mapas de calor de movimientos del objetivo.</p>
+<p style="text-align: justify;"><img loading="lazy" class="alignnone wp-image-12027 size-large" src="/G989/wp-content/uploads/2021/10/ubicacion-celular-sin-programas-1024x576.jpg" alt="" width="1024" height="576" srcset="/G989/wp-content/uploads/2021/10/ubicacion-celular-sin-programas-1024x576.jpg 1024w, /G989/wp-content/uploads/2021/10/ubicacion-celular-sin-programas-300x169.jpg 300w, /G989/wp-content/uploads/2021/10/ubicacion-celular-sin-programas-768x432.jpg 768w, /G989/wp-content/uploads/2021/10/ubicacion-celular-sin-programas.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+<p style="text-align: justify;">Detalle de fechas en las que registra visitas a un área geográfica específica.</p>
+<p style="text-align: justify;"><img loading="lazy" class="alignnone wp-image-12041 size-full" src="/G989/wp-content/uploads/2021/10/hostorial-de-llamadas.png" alt="" width="1024" height="768" srcset="/G989/wp-content/uploads/2021/10/hostorial-de-llamadas.png 1024w, /G989/wp-content/uploads/2021/10/hostorial-de-llamadas-300x225.png 300w, /G989/wp-content/uploads/2021/10/hostorial-de-llamadas-768x576.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+<p style="text-align: justify;">Un detalle que usualmente nuestros analistas de G989 agregan a los informes de análisis solicitados por los clientes, es un gráfico sencillo que resume el consumo general reflejado en la sábana, donde se aprecia con un vistazo las posibles irregularidades de consumo de una línea telefónica que puede servir como pista para llegar a conclusiones según cada caso de investigación. También se puede extraer información de los contactos con los que se comunica frecuentemente, incluyendo detalles de cantidad de llamadas y mensajes de texto con un número específico.</p>
+<p style="text-align: justify;">Por otro lado, recalcamos que el trabajo de análisis y procesamiento de la información de una sábana tradicionalmente se realiza de forma manual consumiendo grandes cantidades de horas/hombre y arrastrando errores humanos propios de agotamiento intelectual que el análisis produce. En este mismo sentido, por inexperiencia es común llegar a conclusiones erróneas por no interpretar con objetividad y fundamento científico los datos.<br />
+En G989, disponemos de sofisticadas herramientas para análisis de datos y visualización de eventos de comunicaciones en el transcurso del tiempo, la experticia de un conjunto de analistas con distinguida trayectoria en el área, y toda la asesoría necesaria para que usted genere sus propias conclusiones en base a su caso.</p>
+<p style="text-align: justify;"><strong>¿Sabías de la existencia de las sábanas telefónicas? Déjanos tu respuesta y opinión en la casilla de comentarios.</strong></p>
+
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div></div>
+<p>The post <a rel="nofollow" href="/G989/analisis-de-sabanas-telefonicas-telcel-movistar-att/">Sábanas telefónicas ¿Qué son y para qué sirven?</a> appeared first on <a rel="nofollow" href="/G989">G989</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/G989/analisis-de-sabanas-telefonicas-telcel-movistar-att/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>¿Sabes reconocer a los distintos mentirosos en internet?</title>
+		<link>/G989/mentiras-en-internet-catfish-estafas-en-internet-estafas-en-linea-hackeo-de-facebook-hackeo-de-whatsapp-mentiras-en-la-web-reconocer-estafadores/</link>
+					<comments>/G989/mentiras-en-internet-catfish-estafas-en-internet-estafas-en-linea-hackeo-de-facebook-hackeo-de-whatsapp-mentiras-en-la-web-reconocer-estafadores/#respond</comments>
+		
+		<dc:creator><![CDATA[G989Admin]]></dc:creator>
+		<pubDate>Fri, 10 Sep 2021 20:03:13 +0000</pubDate>
+				<category><![CDATA[Sin categoría]]></category>
+		<category><![CDATA[clonación de Facebook]]></category>
+		<category><![CDATA[clonación de WhatsApp]]></category>
+		<category><![CDATA[como encontrar a un estafador]]></category>
+		<category><![CDATA[como reconocer un catfish]]></category>
+		<category><![CDATA[estafas por internet]]></category>
+		<category><![CDATA[Hackeo de Facebook]]></category>
+		<category><![CDATA[hackeo de WhatsApp]]></category>
+		<category><![CDATA[mentiras en la web]]></category>
+		<category><![CDATA[que es catfish]]></category>
+		<category><![CDATA[reconocer estafadores en linea]]></category>
+		<guid isPermaLink="false">/G989/?p=11978</guid>
+
+					<description><![CDATA[<p>The post <a rel="nofollow" href="/G989/mentiras-en-internet-catfish-estafas-en-internet-estafas-en-linea-hackeo-de-facebook-hackeo-de-whatsapp-mentiras-en-la-web-reconocer-estafadores/">¿Sabes reconocer a los distintos mentirosos en internet?</a> appeared first on <a rel="nofollow" href="/G989">G989</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p><strong><img loading="lazy" class="alignnone wp-image-11981 size-full" src="/G989/wp-content/uploads/2021/09/1m.jpg" alt="" width="1000" height="671" srcset="/G989/wp-content/uploads/2021/09/1m.jpg 1000w, /G989/wp-content/uploads/2021/09/1m-300x201.jpg 300w, /G989/wp-content/uploads/2021/09/1m-768x515.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></strong></p>
+<p><strong>¿Sabes reconocer a los distintos mentirosos en internet?</strong></p>
+<p>En nuestra agencia de detectives privados G989, recibimos contacto con muchas personas que han sido víctima, o, sospechan de serlo, de las mentiras más comunes que tenemos en internet. El muy famoso Catfish. La estafa suele funcionar así:</p>
+<p>Se conoce a alguien en un sitio o una aplicación de citas, una persona que parece maravillosa, y la relación progresa con rapidez. La persona afectada quiere conocer a la otra, y al catfisher también le parece una idea fantástica. Pero hay un pequeño problema: el catfisher está «atrapado» en otro país y necesita dinero urgentemente, o bien tiene algún «problema médico» imprevisto y sin una solución barata; o bien encuentra cualquier otra excusa para pedirle dinero. Algunos catfishers logran mantener esta relación activa, llegando a sacar miles de dólares a sus «parejas».</p>
+<p>Es realmente difícil llegar a ubicar y atrapar a un catfisher, sin embargo, existen herramientas de búsqueda e investigación como la plataforma OSINT, que te permitirá ver algún posible rastro de esta persona que estás intentando encontrar. En G989 recomendamos abiertamente no hacer uso de la investigación privada para cometer actos que puedan estar violando las leyes de su país de residencia. Por el contrario les brindamos recomendaciones para evitar ser víctima de este tipo de estafa en internet.</p>
+<h3><strong><img loading="lazy" class="alignnone wp-image-11982 size-full" src="/G989/wp-content/uploads/2021/09/2m.jpg" alt="" width="1600" height="900" srcset="/G989/wp-content/uploads/2021/09/2m.jpg 1600w, /G989/wp-content/uploads/2021/09/2m-300x169.jpg 300w, /G989/wp-content/uploads/2021/09/2m-1024x576.jpg 1024w, /G989/wp-content/uploads/2021/09/2m-768x432.jpg 768w, /G989/wp-content/uploads/2021/09/2m-1536x864.jpg 1536w" sizes="(max-width: 1600px) 100vw, 1600px" /></strong></h3>
+<h3><strong>Atención a estas señales de peligro</strong></h3>
+<p>El equipo de G989 hizo un análisis a las solicitudes y testimonios más comunes de nuestros clientes en búsqueda de investigaciones privadas, detectives privados, investigaciones informáticas, etc. Y hemos realizado una lista de señales que suelen ser factor común en la mayoría de los casos. Cuando conozca a alguien a través de un sitio de citas o una red social, sea precavido. Esté atento a las señales habituales que G989 le presenta y que podrían exponer a la persona con la que chatea que podría no ser quien dice.</p>
+<p><strong><img loading="lazy" class="alignnone wp-image-11983 size-large" src="/G989/wp-content/uploads/2021/09/3m-1024x640.jpg" alt="" width="1024" height="640" srcset="/G989/wp-content/uploads/2021/09/3m-1024x640.jpg 1024w, /G989/wp-content/uploads/2021/09/3m-300x188.jpg 300w, /G989/wp-content/uploads/2021/09/3m-768x480.jpg 768w, /G989/wp-content/uploads/2021/09/3m-1536x960.jpg 1536w, /G989/wp-content/uploads/2021/09/3m-2048x1280.jpg 2048w, /G989/wp-content/uploads/2021/09/3m-400x250.jpg 400w" sizes="(max-width: 1024px) 100vw, 1024px" /></strong></p>
+<p><strong>1.) La persona parece demasiado buena para ser cierta</strong></p>
+<p>Si su nuevo interés amoroso parece extremadamente atractivo y rico, con un trabajo estupendo, podría ser todo falso. Muchos catfishers aseguran tener un trabajo que los mantiene constantemente viajando, lo que facilita las excusas para no conocerse en persona.</p>
+<p><strong><img loading="lazy" class="alignnone wp-image-11984 size-large" src="/G989/wp-content/uploads/2021/09/4m-1024x683.jpg" alt="" width="1024" height="683" srcset="/G989/wp-content/uploads/2021/09/4m-1024x683.jpg 1024w, /G989/wp-content/uploads/2021/09/4m-300x200.jpg 300w, /G989/wp-content/uploads/2021/09/4m-768x512.jpg 768w, /G989/wp-content/uploads/2021/09/4m.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></strong></p>
+<p><strong>2.) La relación avanza rápido</strong></p>
+<p>Si la persona parece dar impulso a la relación con una velocidad inusitada, es hora de pisar el freno. Esté atento a señales como que el otro comparta detalles muy personales rápidamente (en especial, problemas que le hagan ganarse sus simpatías) o que profese sus sentimientos muy pronto. Por supuesto, es muy halagador sentirse querido, pero si apenas se conocen ¿cómo va a sentir tanto amor por usted?</p>
+<p><strong><img loading="lazy" class="alignnone wp-image-11986 size-large" src="/G989/wp-content/uploads/2021/09/54m-1024x593.jpg" alt="" width="1024" height="593" srcset="/G989/wp-content/uploads/2021/09/54m-1024x593.jpg 1024w, /G989/wp-content/uploads/2021/09/54m-300x174.jpg 300w, /G989/wp-content/uploads/2021/09/54m-768x445.jpg 768w, /G989/wp-content/uploads/2021/09/54m.jpg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></strong></p>
+<p><strong>3.) La otra persona tiene poca presencia en redes sociales</strong></p>
+<p>Eche un vistazo a su posible nuevo amor en redes sociales y vea cuántos amigos y fotos tiene. Si la cuenta es muy reciente, podría ser una señal de que alguien la ha creado para una personalidad falsa. Que haya solo unas pocas fotos y de aspecto profesional es una gran señal de peligro (podría haberlas robado de un modelo o en algún otro sitio de la red). Además, compruebe si alguien ha etiquetado a la otra persona en fotos: si tiene amigos que han subido fotos donde aparece, es una señal positiva de que podría ser una persona real.</p>
+<p><img loading="lazy" class="alignnone wp-image-11988 size-full" src="/G989/wp-content/uploads/2021/09/5.jpg" alt="" width="1022" height="702" srcset="/G989/wp-content/uploads/2021/09/5.jpg 1022w, /G989/wp-content/uploads/2021/09/5-300x206.jpg 300w, /G989/wp-content/uploads/2021/09/5-768x528.jpg 768w" sizes="(max-width: 1022px) 100vw, 1022px" /></p>
+<p><strong> 4.) </strong><strong>Su historia tiene algunos agujeros</strong></p>
+<p>A medida que conozca a alguien en línea, esté atento a cualquier detalle incoherente en su historia. ¿Parecen cambiar los detalles sobre su trabajo, sus aficiones o su familia? Un mentiroso puede cometer errores u olvidar lo que ha dicho antes. Preste atención incluso al modo en que escribe. Por ejemplo, ¿asegura ser hablante de inglés nativo pero comete muchos errores? Esa es una enorme señal de alerta, con sirena incluida, de que alguien no es quien dice ser.</p>
+<p><img loading="lazy" class="alignnone wp-image-11989 size-large" src="/G989/wp-content/uploads/2021/09/6m-1024x682.jpg" alt="" width="1024" height="682" srcset="/G989/wp-content/uploads/2021/09/6m-1024x682.jpg 1024w, /G989/wp-content/uploads/2021/09/6m-300x200.jpg 300w, /G989/wp-content/uploads/2021/09/6m-768x512.jpg 768w, /G989/wp-content/uploads/2021/09/6m.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+<p><strong>5.) Parece tenerlo todo en común con usted</strong></p>
+<p>Si su nuevo interés romántico parece estar de acuerdo con todo lo que le dice, o asegura tenerlo todo en común con usted, puede ser una señal de que está mintiendo solo para establecer un terreno común y crear una sensación artificial de confianza.</p>
+<p>&nbsp;</p>
+<h3><strong>Siga estos consejos para protegerse</strong></h3>
+<p>Puede ser muy emocionante conocer a alguien nuevo en línea, pero no deje de seguir estos consejos para protegerse y evitar estafas.</p>
+<p><img loading="lazy" class="alignnone wp-image-11961 size-large" src="/G989/wp-content/uploads/2021/08/4-1024x447.jpg" alt="" width="1024" height="447" srcset="/G989/wp-content/uploads/2021/08/4-1024x447.jpg 1024w, /G989/wp-content/uploads/2021/08/4-300x131.jpg 300w, /G989/wp-content/uploads/2021/08/4-768x336.jpg 768w, /G989/wp-content/uploads/2021/08/4.jpg 1030w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+<p><strong>1.) Haga una búsqueda inversa de imágenes</strong></p>
+<p>Haga una búsqueda inversa de imágenes para comprobar si las fotos de su interés romántico aparecen en alguna otra parte de la red (como un catálogo o el perfil en redes sociales de otra persona). Puede hacerlo fácilmente con una búsqueda en Google Imágenes. Basta con cargar una foto de su posible amor y comprobar dónde más aparece en línea la imagen. Así sabrá si es robada.</p>
+<p>&nbsp;</p>
+<p><strong>2.) Chat de vídeo</strong></p>
+<p>Una persona real no debería tener ningún problema en mostrar su verdadera cara. Cuidado con las excusas como «la conexión Wi-Fi es mala» o «es que Skype no funciona». Una persona real y con un interés auténtico en usted encontrará el modo de chatear por vídeo. Hay multitud de maneras de conectar por vídeo hoy en día (Skype, Facebook Messenger, WhatsApp, Signal, etc.) y en prácticamente todo el mundo hay Wi-Fi. Si su nueva conquista no deja de esquivarlo, probablemente haya una razón.</p>
+<p><strong>3.) Reúnanse en persona</strong></p>
+<p>Por supuesto, el mejor modo de verificar la identidad de alguien es conocerlo en persona. Es mejor hacerlo después de haberlo visto en un chat de vídeo. Reúnanse en un lugar público y avise a alguien de confianza acerca de dónde va a estar y cuándo espera estar de vuelta. ¡Sí, incluso los adultos deberían hacerlo! No envíe, ejemplo, fotos comprometedoras. ¡¡¡No envíe fotos sin ropa!!! Podría quedar expuesto al chantaje por parte de un estafador.</p>
+<p>&nbsp;</p>
+<p><strong>4.) Confíe en su instinto</strong></p>
+<p>Si algo no parece cuadrar, probablemente sea así. Una persona real debería ser capaz de acallar cualquier duda. Si tiene preguntas que su posible nuevo amor no es capaz de responder, más vale prevenir que curar. Le irá mucho mejor buscando a otra persona que viva en su zona y que esté encantada de reunirse con usted.</p>
+<p>&nbsp;</p>
+<p><strong>5.) Nunca dé dinero a extraños que conozca en Internet</strong></p>
+<p>Infórmese sobre las típicas excusas que los catfishers utilizan para pedir dinero. Son habituales los procedimientos médicos inesperados, los problemas de última hora para viajar o los asuntos familiares. La solicitud puede ser de una transferencia de dinero, el envío de dinero a través de una aplicación, el envío de tarjetas regalo o cualquier otra cosa. Jamás envíe dinero a alguien a quien no haya conocido en persona.</p>
+<p>&nbsp;</p>
+<h3><strong>Otras estafas con falsa identidad</strong></h3>
+<p>En general, debe hacer siempre lo posible para comprobar que no le estén engañando en Internet. Las estafas de citas no son el único fraude con falsa identidad del que debe cuidarse. También hay que estar atento a los timadores que se hacen pasar por agencias oficiales, empresas o trabajadores de soporte técnico. Estos trucos suelen tomar la forma de intentos de phishing. Que los vemos en WhatsApp, Facebook, Intagram y más plataformas.</p>
+<p>Además, vale la pena mencionar la clonación de cuentas de redes sociales como Facebook, Instagram, WhatsApp, correos electrónicos, etc. El atacante se hace pasar por algún familiar, amigo cercano, alguien conocido y te invita a eliminar otros números de teléfono o perfiles anteriores y solo quedarse con el de él, evitando que tengas comunicación con la persona original y aislando el contacto con ella. El equipo de G989 recomienda, siembre buscar contacto por llamada de voz o video con la persona para verificar que no sea un pirata informático.</p>
+<p>Es importante mantenerse vigilantes. Con el fin de que su familia esté a salvo de estafadores de todo tipo, es buena idea tener una conversación con sus hijos, con sus padres e incluso con sus abuelos para garantizar que no se conviertan en víctimas de solicitudes sospechosas de dinero en línea.</p>
+
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p><span style="color: #ffffff;">OSINT, Saber nombre quien este teléfono, Saber nombre quien este correo electrónico, Numero teléfono saber quién es, Saber quien pertenece numero telefónico, Buscar persona por correo, Contra espionaje, Buscar persona por número de teléfono, Saber quién pertenece correo electrónico, Barrido OSINT, saber Redes sociales persona, Análisis osint, investigar un teléfono, investigar un numero telefónico, ver datos de un teléfono, ver datos de un correo, osint de telefono, osint correo, osint email, osint de alguien, información publica de una persona, investigaciones OSINT. Ubicar redes sociales, hackeo de Facebook, Hackeo de WhatsApp, Hackeo de Instagram, Hackeo de Telegram, Quien me esta clonando Facebook,  </span></p>
+
+		</div>
+	</div>
+</div></div></div></div>
+<p>The post <a rel="nofollow" href="/G989/mentiras-en-internet-catfish-estafas-en-internet-estafas-en-linea-hackeo-de-facebook-hackeo-de-whatsapp-mentiras-en-la-web-reconocer-estafadores/">¿Sabes reconocer a los distintos mentirosos en internet?</a> appeared first on <a rel="nofollow" href="/G989">G989</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/G989/mentiras-en-internet-catfish-estafas-en-internet-estafas-en-linea-hackeo-de-facebook-hackeo-de-whatsapp-mentiras-en-la-web-reconocer-estafadores/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>¿Es posible hackear el WhatsApp de otra persona?</title>
+		<link>/G989/9-formas-de-vulnerar-whatsapp-g-989-investigaciones-telefonicas/</link>
+					<comments>/G989/9-formas-de-vulnerar-whatsapp-g-989-investigaciones-telefonicas/#respond</comments>
+		
+		<dc:creator><![CDATA[G989Admin]]></dc:creator>
+		<pubDate>Wed, 25 Aug 2021 15:58:33 +0000</pubDate>
+				<category><![CDATA[Creative]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[bloqueo de WhatsApp]]></category>
+		<category><![CDATA[Cifrado]]></category>
+		<category><![CDATA[detectives privados]]></category>
+		<category><![CDATA[encriptado]]></category>
+		<category><![CDATA[espionaje]]></category>
+		<category><![CDATA[Facebook]]></category>
+		<category><![CDATA[hackers]]></category>
+		<category><![CDATA[investigaciones personales]]></category>
+		<category><![CDATA[investigaciones telefonicas]]></category>
+		<category><![CDATA[investigaciones telefonicas corporativas]]></category>
+		<category><![CDATA[investigaciones telefonicas empresariales]]></category>
+		<category><![CDATA[investigadores privados]]></category>
+		<category><![CDATA[México]]></category>
+		<category><![CDATA[PEGASUS]]></category>
+		<category><![CDATA[prevención de ataques celulares]]></category>
+		<category><![CDATA[prevención de ataques informaticos]]></category>
+		<category><![CDATA[seguridad informatica]]></category>
+		<category><![CDATA[WhatsApp]]></category>
+		<category><![CDATA[WhatsApp Pink]]></category>
+		<category><![CDATA[WhatsApp Web]]></category>
+		<guid isPermaLink="false">http://keydesign-themes.com/etalon/construction/?p=2442</guid>
+
+					<description><![CDATA[<p>The post <a rel="nofollow" href="/G989/9-formas-de-vulnerar-whatsapp-g-989-investigaciones-telefonicas/">¿Es posible hackear el WhatsApp de otra persona?</a> appeared first on <a rel="nofollow" href="/G989">G989</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p>A menudo nuestros clientes preguntan a nuestro equipo de investigadores privados ¿Es posible hackear un WhatsApp? La verdadera respuesta es sí, pero, no lo hacemos ni lo recomendamos bajo ningún concepto. ¿Crees que el cifrado de mensajes de WhatsApp lo hace seguro? Aquí hay varias formas en que su WhatsApp puede ser vulnerado. A pesar de que tiene algunas características de seguridad, como el uso de cifrado de extremo a extremo para mantener la privacidad de los mensajes. Sin embargo, los ataques dirigidos a WhatsApp podrían comprometer la privacidad de sus mensajes y contactos.</p>
+<p><strong>Aquí hay nueve formas en que se puede vulnerar WhatsApp:</strong></p>
+<h4 id="remote-code-execution-via-gif"><img loading="lazy" class="alignnone wp-image-11725" src="/G989/wp-content/uploads/2021/07/investigadores-privados-cdmx-precios-300x169.jpg" alt="" width="576" height="325" srcset="/G989/wp-content/uploads/2021/07/investigadores-privados-cdmx-precios-300x169.jpg 300w, /G989/wp-content/uploads/2021/07/investigadores-privados-cdmx-precios-1024x576.jpg 1024w, /G989/wp-content/uploads/2021/07/investigadores-privados-cdmx-precios-768x432.jpg 768w, /G989/wp-content/uploads/2021/07/investigadores-privados-cdmx-precios-1536x864.jpg 1536w, /G989/wp-content/uploads/2021/07/investigadores-privados-cdmx-precios.jpg 1920w" sizes="(max-width: 576px) 100vw, 576px" /></h4>
+<h4 id="remote-code-execution-via-gif">1. Ejecución remota de código a través de GIF</h4>
+<p>En octubre de 2019, el investigador de seguridad Awakened reveló una vulnerabilidad en WhatsApp que permitía a los piratas informáticos tomar el control de la aplicación mediante una imagen GIF. El truco funciona aprovechando la forma en que WhatsApp procesa las imágenes cuando el usuario abre la vista Galería para enviar un archivo multimedia.</p>
+<p>Cuando esto sucede, la aplicación analiza el GIF para mostrar una vista previa del archivo. Los archivos GIF son especiales porque tienen varios fotogramas codificados. Esto significa que el código se puede ocultar dentro de la imagen.</p>
+<p>Si un pirata informático enviara un GIF malicioso a un usuario, podría comprometer todo el historial de chat del usuario. Los piratas informáticos podrían ver a quién había estado enviando mensajes el usuario y qué habían estado diciendo. También podrían ver los archivos, fotos y videos de los usuarios enviados a través de WhatsApp.</p>
+<p>Antes de contactar algún servicio particular de investigador privado especialista en informática solicitando este tipo de actividad, debe tomar en cuenta que esta vulnerabilidad afectó a las versiones de WhatsApp hasta 2.19.230 en Android 8.1 y 9. Afortunadamente para todos, Awakened reveló la vulnerabilidad de manera responsable y Facebook, propietario de WhatsApp, solucionó el problema. Para mantenerse a salvo de este problema, debe actualizar WhatsApp a la versión 2.19.244 o superior.</p>
+<h4><strong><img loading="lazy" class="alignnone wp-image-11959" src="/G989/wp-content/uploads/2021/08/pegasus-software-300x188.jpg" alt="" width="394" height="247" srcset="/G989/wp-content/uploads/2021/08/pegasus-software-300x188.jpg 300w, /G989/wp-content/uploads/2021/08/pegasus-software.jpg 400w" sizes="(max-width: 394px) 100vw, 394px" /></strong></h4>
+<h4><strong>2. El ataque de llamada de voz de Pegasus</strong></h4>
+<p>El software Pegasus es una alternativa de espionaje de algunos gobiernos como México, Hungría, India, Kazajastán, Marruecos, Arabia Saudita, Emiratos Árabes Unidos entre otros. Otra vulnerabilidad de WhatsApp descubierta a principios de 2019 fue el hackeo de llamadas de voz de Pegasus .</p>
+<p>Este ataque aterrador permitió a los piratas informáticos, detectives privados, investigadores privados, hackers, entre otros atacantes que usen este software acceder a un dispositivo simplemente haciendo una llamada de voz de WhatsApp a su objetivo. Incluso si el objetivo no respondió a la llamada, el ataque aún podría ser efectivo. Y es posible que el objetivo ni siquiera sepa que se ha instalado malware en su dispositivo.</p>
+<p>Esto funcionó a través de un método conocido como desbordamiento de búfer. Aquí es donde un ataque coloca deliberadamente demasiado código en un pequeño búfer para que se &#8220;desborde&#8221; y escriba el código en una ubicación a la que no debería poder acceder. Cuando el pirata informático puede ejecutar código en una ubicación que debería ser segura, puede tomar medidas maliciosas.</p>
+<p>Este ataque instaló un software espía más antiguo y conocido llamado Pegasus. Esto permitió a los piratas informáticos recopilar datos sobre llamadas telefónicas, mensajes, fotos y videos. Incluso les permitió activar las cámaras y micrófonos de los dispositivos para realizar grabaciones.</p>
+<p>Esta vulnerabilidad se aplicó a dispositivos Android, iOS, Windows 10 Mobile y Tizen. Fue utilizado por la empresa israelí NSO Group, que ha sido acusada de espiar al personal de Amnistía Internacional y a otros activistas de derechos humanos. Después de que se supo la noticia del hack, WhatsApp se actualizó para protegerlo de este ataque.</p>
+<h4><img loading="lazy" class="alignnone wp-image-11960 " src="/G989/wp-content/uploads/2021/08/marionette-hacking-4-1024x532.jpg" alt="" width="514" height="267" srcset="/G989/wp-content/uploads/2021/08/marionette-hacking-4-1024x532.jpg 1024w, /G989/wp-content/uploads/2021/08/marionette-hacking-4-300x156.jpg 300w, /G989/wp-content/uploads/2021/08/marionette-hacking-4-768x399.jpg 768w, /G989/wp-content/uploads/2021/08/marionette-hacking-4-1536x798.jpg 1536w, /G989/wp-content/uploads/2021/08/marionette-hacking-4.jpg 1540w" sizes="(max-width: 514px) 100vw, 514px" /></h4>
+<h4>3. Ataques de ingeniería social</h4>
+<p>Otra forma en que WhatsApp es vulnerable es a través de ataques de ingeniería social. Estos explotan la psicología humana para robar información o difundir información errónea.</p>
+<p>Una empresa de seguridad llamada Check Point Research reveló uno de esos ataques que llamaron FakesApp. Esto permitió a las personas hacer un mal uso de la función de cita en el chat grupal y alterar el texto de la respuesta de otra persona. Esencialmente, los piratas informáticos podrían plantar declaraciones falsas que parecen provenir de otros usuarios legítimos.</p>
+<p>Los investigadores podrían hacer esto descifrando las comunicaciones de WhatsApp. Esto les permitió ver los datos enviados entre la versión móvil y la versión web de WhatsApp.</p>
+<p>Y a partir de aquí, podrían cambiar los valores en los chats grupales. Entonces podrían hacerse pasar por otras personas, enviando mensajes que parecían ser de ellos. También podrían cambiar el texto de las respuestas.</p>
+<p>Esto podría usarse de formas preocupantes para difundir estafas o noticias falsas. A pesar de que la vulnerabilidad se reveló en 2018, aún no se había corregido cuando los investigadores hablaron en la conferencia Black Hat en Las Vegas en 2019, según ZNet .</p>
+<p><img loading="lazy" class="alignnone wp-image-11961 " src="/G989/wp-content/uploads/2021/08/4-1024x447.jpg" alt="" width="513" height="224" srcset="/G989/wp-content/uploads/2021/08/4-1024x447.jpg 1024w, /G989/wp-content/uploads/2021/08/4-300x131.jpg 300w, /G989/wp-content/uploads/2021/08/4-768x336.jpg 768w, /G989/wp-content/uploads/2021/08/4.jpg 1030w" sizes="(max-width: 513px) 100vw, 513px" /></p>
+<h4 id="media-file-jacking">4. Captura de archivos multimedia</h4>
+<p>Los hackers, investigadores privados, detectives privados, entre otros piratas informáticos utilizan el Media File Hacking que afecta tanto a WhatsApp como a Telegram, este ataque aprovecha la forma en que las aplicaciones reciben archivos multimedia como fotos o videos y los escriben en el almacenamiento externo de un dispositivo.</p>
+<p>El ataque comienza instalando malware oculto dentro de una aplicación aparentemente inofensiva. Esto luego puede monitorear los archivos entrantes para Telegram o WhatsApp. Cuando ingresa un nuevo archivo, el malware puede cambiar el archivo real por uno falso. Symantec , la compañía que descubrió el problema, sugiere que podría usarse para estafar a las personas o para difundir noticias falsas.</p>
+<p>Hay una solución rápida para este problema. En WhatsApp, debe buscar en <strong>Configuración</strong> e ir a  <strong>Configuración de chat</strong> . Luego, busque la  opción <strong>Guardar en la galería</strong> y asegúrese de que esté  <strong>desactivada</strong> . Esto lo protegerá de esta vulnerabilidad. Sin embargo, una verdadera solución para el problema requerirá que los desarrolladores de aplicaciones cambien por completo la forma en que las aplicaciones manejan los archivos multimedia en el futuro.</p>
+<h4 id="facebook-could-spy-on-whatsapp-chats"><img loading="lazy" class="alignnone wp-image-11962 " src="/G989/wp-content/uploads/2021/08/5.jpg" alt="" width="517" height="355" srcset="/G989/wp-content/uploads/2021/08/5.jpg 1022w, /G989/wp-content/uploads/2021/08/5-300x206.jpg 300w, /G989/wp-content/uploads/2021/08/5-768x528.jpg 768w" sizes="(max-width: 517px) 100vw, 517px" /></h4>
+<h4>5. Facebook podría espiar los chats de WhatsApp</h4>
+<p>El hecho de que WhatsApp utilice cifrado de extremo a extremo no significa que todos los mensajes sean privados. En un sistema operativo como iOS 8 y superior, las aplicaciones pueden acceder a archivos en un &#8220;contenedor compartido&#8221;.</p>
+<p>Tanto las aplicaciones de Facebook como WhatsApp utilizan el mismo contenedor compartido en los dispositivos. Y aunque los chats están encriptados cuando se envían, no necesariamente están encriptados en el dispositivo de origen. Esto significa que la aplicación de Facebook podría potencialmente copiar información de la aplicación de WhatsApp.</p>
+<p>Para ser claros, no hay evidencia de que Facebook haya utilizado contenedores compartidos para ver los mensajes privados de WhatsApp. Pero el potencial está ahí para que lo hagan. Incluso con el cifrado de extremo a extremo, es posible que sus mensajes no sean privados para el ojo que todo lo ve de Facebook.</p>
+<h4 id="paid-third-party-apps"><img loading="lazy" class="alignnone wp-image-11963 " src="/G989/wp-content/uploads/2021/08/6.jpg" alt="" width="527" height="261" srcset="/G989/wp-content/uploads/2021/08/6.jpg 1280w, /G989/wp-content/uploads/2021/08/6-300x149.jpg 300w, /G989/wp-content/uploads/2021/08/6-1024x507.jpg 1024w, /G989/wp-content/uploads/2021/08/6-768x380.jpg 768w" sizes="(max-width: 527px) 100vw, 527px" /></h4>
+<h4>6. Aplicaciones pagas de terceros</h4>
+<p>Te sorprendería saber cuántas aplicaciones legales pagas han aparecido en el mercado que existen únicamente para piratear sistemas seguros.</p>
+<p>Esto lo podrían hacer hackers, detectives privados, investigadores privados y las grandes corporaciones trabajando mano a mano con regímenes opresivos para atacar a activistas y periodistas; o por ciberdelincuentes, con la intención de obtener su información personal.</p>
+<p>Aplicaciones como Spyzie y mSPY  pueden piratear fácilmente su cuenta de WhatsApp para robar sus datos privados.</p>
+<p>Todo lo que necesita hacer es comprar la aplicación, instalarla y activarla en el teléfono de destino. Finalmente, puede sentarse y conectarse al panel de control de su aplicación desde el navegador web, y fisgonear datos privados de WhatsApp como mensajes, contactos, estado, etc. ¡Pero obviamente desaconsejamos a cualquiera que realmente haga esto!</p>
+<p><img loading="lazy" class="alignnone wp-image-11964 " src="/G989/wp-content/uploads/2021/08/7.jpg" alt="" width="514" height="377" srcset="/G989/wp-content/uploads/2021/08/7.jpg 735w, /G989/wp-content/uploads/2021/08/7-300x220.jpg 300w" sizes="(max-width: 514px) 100vw, 514px" /></p>
+<h4 id="fake-whatsapp-clones">7. Clones falsos de WhatsApp</h4>
+<p>Para hackear su cuenta de WhatsApp, un atacante primero intentará instalar un clon de WhatsApp, que podría verse sorprendentemente similar a la aplicación original. Tomemos el caso de la estafa de WhatsApp Pink, por ejemplo. Un clon del WhatsApp original, pretende cambiar el fondo verde estándar de WhatsApp a rosa. Así es como funciona.</p>
+<p>Un usuario desprevenido recibe un enlace para descargar la aplicación WhatsApp Pink para cambiar el color de fondo de su aplicación. Y aunque realmente cambia el color de fondo de su aplicación a rosa, tan pronto como instale la aplicación, comenzará a recopilar datos no solo de su WhatsApp sino también de todo lo demás almacenado en su teléfono. Ahora también se ha adoptado para irrumpir en los sistemas Android.</p>
+<p><img loading="lazy" class="alignnone wp-image-11965 " src="/G989/wp-content/uploads/2021/08/8.jpg" alt="" width="515" height="343" srcset="/G989/wp-content/uploads/2021/08/8.jpg 1200w, /G989/wp-content/uploads/2021/08/8-300x200.jpg 300w, /G989/wp-content/uploads/2021/08/8-1024x683.jpg 1024w, /G989/wp-content/uploads/2021/08/8-768x512.jpg 768w" sizes="(max-width: 515px) 100vw, 515px" /></p>
+<h4 id="whatsapp-web">8. WhatsApp Web</h4>
+<p>WhatsApp Web es una excelente herramienta para alguien que pasa la mayor parte del día en una computadora. Proporciona la facilidad de acceso a dichos usuarios de WhatsApp, ya que no tendrán que levantar su teléfono una y otra vez para enviar mensajes. La pantalla grande y el teclado también brindan una mejor experiencia de usuario en general.</p>
+<p>Sin embargo, aquí está la advertencia. Por muy útil que sea la versión web, se puede usar fácilmente para hackear sus chats de WhatsApp. Este peligro surge cuando usa WhatsApp Web en la computadora de otra persona.</p>
+<p>Por lo tanto, si el propietario de la computadora ha seleccionado la  casilla <strong>Mantener la sesión iniciada</strong> durante el inicio de sesión, su cuenta de WhatsApp permanecerá registrada incluso después de cerrar el navegador.</p>
+<p>El propietario de la computadora puede acceder a su información sin mucha dificultad.</p>
+<div class="body-img responsive-img img-article-item">
+<figure><picture><source srcset="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/whatsapp-web-menu-e1621606990602.png?q=50&amp;fit=crop&amp;w=750&amp;dpr=1.5" media="(min-width: 1024px)" sizes="750px" data-srcset="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/whatsapp-web-menu-e1621606990602.png?q=50&amp;fit=crop&amp;w=750&amp;dpr=1.5" /><source srcset="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/whatsapp-web-menu-e1621606990602.png?q=50&amp;fit=crop&amp;w=943&amp;dpr=1.5" media="(min-width: 768px)" sizes="943px" data-srcset="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/whatsapp-web-menu-e1621606990602.png?q=50&amp;fit=crop&amp;w=943&amp;dpr=1.5" /><source srcset="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/whatsapp-web-menu-e1621606990602.png?q=50&amp;fit=crop&amp;w=767&amp;dpr=1.5" media="(min-width: 481px)" sizes="767px" data-srcset="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/whatsapp-web-menu-e1621606990602.png?q=50&amp;fit=crop&amp;w=767&amp;dpr=1.5" /><source srcset="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/whatsapp-web-menu-e1621606990602.png?q=50&amp;fit=crop&amp;w=480&amp;dpr=1.5" media="(min-width: 0px)" sizes="480px" data-srcset="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/whatsapp-web-menu-e1621606990602.png?q=50&amp;fit=crop&amp;w=480&amp;dpr=1.5" /></picture></figure>
+</div>
+<p><a href="/G989/wp-content/uploads/2021/08/9.webp"><img loading="lazy" class="alignnone wp-image-11966 " src="/G989/wp-content/uploads/2021/08/9.webp" alt="" width="385" height="404" srcset="/G989/wp-content/uploads/2021/08/9.webp 1920w, /G989/wp-content/uploads/2021/08/9-286x300.webp 286w, /G989/wp-content/uploads/2021/08/9-975x1024.webp 975w, /G989/wp-content/uploads/2021/08/9-768x806.webp 768w, /G989/wp-content/uploads/2021/08/9-1463x1536.webp 1463w" sizes="(max-width: 385px) 100vw, 385px" /></a></p>
+<h4><strong>9. Ataque de suplantación de WhatsApp</strong></h4>
+<p>Un método que permite bloquear el acceso a cualquier cuenta de WhatsApp, todo se debe a una vulnerabilidad descubierta en la plataforma, que podría llegar a afectar a millones de personas en todo el mundo.</p>
+<p>Los atacantes solo necesitarían conocer el número de teléfono de sus víctimas para llevar a cabo el ataque. Y teniendo en cuenta que la propia Facebook dejó públicos los números de teléfono de más de medio millón de personas, no debería ser demasiado difícil para estos atacantes dar con el número de sus objetivos.</p>
+<p>El proceso de verificación en dos factores que WhatsApp habilita por defecto al crear una cuenta en el servicio es uno de los elementos más débiles de la aplicación, dado que entra en juego el factor humano y los atacantes pueden aprovecharse de ello para acceder a las cuentas de sus víctimas.</p>
+<p>El funcionamiento de este sistema es sencillo: cuando se descarga la app de WhatsApp en un móvil, se pide introducir el número de teléfono y, posteriormente, un código recibido por SMS para verificar la cuenta. Si el código es correcto, la app solicitará el código de verificación en dos factores para identificar al usuario. No obstante, cualquiera puede introducir un número de teléfono de otra persona al instalar WhatsApp en un dispositivo. Cuando un atacante tiene el objetivo de bloquear la cuenta de su víctima, introduce el número de esta, solicitando el código de verificación que le permita verificar a la cuenta.</p>
+<p>Pero dado que dicha cuenta se encuentra iniciada en el móvil de su víctima, esta comenzará a recibir códigos de verificación y notificaciones que indican que se está intentando iniciar sesión en otro dispositivo. Lo más normal sería ignorar dichas notificaciones, pero aquí te explicamos por qué no debes hacerlo.</p>
+<p>El problema es que, cuando se ha solicitado un número determinado de códigos en corto tiempo, WhatsApp bloqueará el intento de acceso a la cuenta durante 12 horas, impidiendo realizar nuevos intentos de inicio de sesión. Esto, en principio, no debería ser un problema para la víctima a menos que decida cerrar sesión de su cuenta por ejemplo, para cambiar de móvil.</p>
+<p>Pero es en este momento cuando el atacante llevaría a cabo el último paso en su objetivo de bloquear la cuenta de su víctima. Para ello, basta con enviar un mensaje de correo electrónico a la cuenta de soporte de WhatsApp, solicitando el cierre de la cuenta, alegando que esta podría haber sido robada. Dicho mensaje contiene el número de teléfono de la víctima.</p>
+
+		</div>
+	</div>
+</div></div></div></div>
+<p>The post <a rel="nofollow" href="/G989/9-formas-de-vulnerar-whatsapp-g-989-investigaciones-telefonicas/">¿Es posible hackear el WhatsApp de otra persona?</a> appeared first on <a rel="nofollow" href="/G989">G989</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/G989/9-formas-de-vulnerar-whatsapp-g-989-investigaciones-telefonicas/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

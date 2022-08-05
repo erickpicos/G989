@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Investigación de fuentes abiertas Archives - G989</title>
+	<atom:link href="/G989/category/detectives-privados/osint/investigacion-de-fuentes-abiertas/feed/" rel="self" type="application/rss+xml" />
+	<link>/G989/category/detectives-privados/osint/investigacion-de-fuentes-abiertas/</link>
+	<description>Investigaciones y Análisis</description>
+	<lastBuildDate>Mon, 03 Jan 2022 21:18:35 +0000</lastBuildDate>
+	<language>es-MX</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
+	<item>
+		<title>Análisis OSINT aplicado en la contrainteligencia corporativa</title>
+		<link>/G989/osint-en-la-inteligencia-y-contrainteligencia-corporativa/</link>
+					<comments>/G989/osint-en-la-inteligencia-y-contrainteligencia-corporativa/#respond</comments>
+		
+		<dc:creator><![CDATA[G989Admin]]></dc:creator>
+		<pubDate>Mon, 03 Jan 2022 20:50:34 +0000</pubDate>
+				<category><![CDATA[detectives privados]]></category>
+		<category><![CDATA[Investigación de fuentes abiertas]]></category>
+		<category><![CDATA[OSINT]]></category>
+		<category><![CDATA[Análisis de OSINT]]></category>
+		<category><![CDATA[contraespionaje]]></category>
+		<category><![CDATA[contraespionaje corporativo]]></category>
+		<category><![CDATA[contrainteligencia corporativa]]></category>
+		<category><![CDATA[espionaje]]></category>
+		<category><![CDATA[herramienta de fuentes abiertas]]></category>
+		<category><![CDATA[Informes OSINT]]></category>
+		<category><![CDATA[inteligencia corporativa]]></category>
+		<category><![CDATA[Investigaciones corporativas]]></category>
+		<category><![CDATA[investigaciones de fuentes abiertas]]></category>
+		<category><![CDATA[investigaciones empresariales]]></category>
+		<category><![CDATA[investigaciones OSINT]]></category>
+		<category><![CDATA[ley de proteccion de datos]]></category>
+		<category><![CDATA[OSINT México]]></category>
+		<category><![CDATA[protección de datos personales en México]]></category>
+		<category><![CDATA[protección patrimonial]]></category>
+		<category><![CDATA[seguridad patrimonial]]></category>
+		<guid isPermaLink="false">/G989/?p=12125</guid>
+
+					<description><![CDATA[<p>The post <a rel="nofollow" href="/G989/osint-en-la-inteligencia-y-contrainteligencia-corporativa/">Análisis OSINT aplicado en la contrainteligencia corporativa</a> appeared first on <a rel="nofollow" href="/G989">G989</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p style="text-align: justify;">La contrainteligencia se puede definir como el conjunto de actividades cuyo objetivo es evitar que los servicios de inteligencia externos (ya sean de otros países o de otras empresas, en este caso) adquieran información relevante sobre aspectos esenciales del funcionamiento o la estructura de un Estado o una empresa, especialmente acerca de sus estrategias, planes, procedimientos, recursos, activos o personas clave.</p>
+<p style="text-align: justify;">La contrainteligencia, en muchos contextos es sinónimo de &#8220;contraespionaje&#8221;, ya que una de sus principales misiones es &#8220;evitar el espionaje contra la propia organización&#8221;.</p>
+<p style="text-align: justify;">Para el equipo de G989 es una actividad común interpretar los resultados arrojados por plataformas de Inteligencia de fuentes abiertas u «Open Source Intelligence» (OSINT) que hace referencia al conocimiento recopilado a partir de fuentes de acceso público. Es una herramienta que permite a las grandes corporaciones realizar análisis generales del perfil de personal en posiciones que pudieran representar un riesgo de filtrar información sensible que pudiera poner en peligro la economía, datos confidenciales y el patrimonio de la empresa en general.</p>
+<p style="text-align: justify;">En el mundo jurídico, los datos personales son aquellos relacionados a la persona natural e identificable. Es decir: toda información que permite identificar a un individuo como nombre y apellidos, domicilio, teléfono, historial laboral y académico, sus datos patrimoniales y financieros, su firma, así como sus características físicas, incluyendo datos biométricos como el iris o la huella dactilar.</p>
+<p style="text-align: justify;">El proceso de búsqueda, selección y adquisición de la información, así como un posterior procesado y análisis de la misma se ejecuta con el fin de obtener conocimiento útil y aplicable en distintos ámbitos permite generar informes OSINT, que según el nivel de privacidad de usuario puede arrojarnos diferentes datos relevantes, como por ejemplo: A nombre de quien(es) ha sido registrado un teléfono o correo electrónico públicamente; Redes sociales asociadas a un teléfono o correo (Facebook, Twitter, LinkedIn, Instagram, entre otras) con perfiles públicos; Genero; Fecha de nacimiento; Nicknames o apodos; Fotografías públicas; Direcciones de residencia; Sitios de trabajo, entre otros.</p>
+<p style="text-align: justify;">La Ley de Protección de Datos permite el tratamiento de datos personales por organizaciones y empresas en determinadas situaciones, pero siempre teniendo como objetivo preservar al usuario. Sin embargo, para eso, es necesario que exista consentimiento o legítimo interés en el uso de los datos en cuestión.  Los datos personales también pueden ser considerados “sensibles” cuando dan a conocer información íntima de la persona. Son datos sensibles aquellos que revelan el origen racial o étnico, estado de salud, ideología, opiniones políticas, orientación sexual, y otros.</p>
+<p style="text-align: justify;">En México, el tratamiento de este tipo de dato recibe un mayor control a través de la Ley de Protección de Datos, ya que su uso indebido puede originar discriminación o, en otros casos, riesgo para la persona dueña de los datos. Por eso, es indispensable que las empresas evalúen la necesidad de utilizar esos datos.</p>
+<p style="text-align: justify;">Están obligadas por la Ley de Protección de Datos en México todas las empresas del sector privado que obtengan, usen, almacenen y/o transfieran datos personales como parte de sus actividades. Para aplicar la ley que protege a los datos de los usuarios, son establecidos algunos principios por la Ley de Protección de Datos como la licitud, consentimiento, siempre que sea necesario deberá obtenerse el consentimiento de los titulares para el tratamiento de sus datos personales; debe ser de conocimiento del titular la información relacionada con el tratamiento de sus datos. Finalidad, el tratamiento de datos debe cumplir las finalidades establecidas en el aviso de privacidad presentado al usuario; Lealtad de proteger los intereses del titular y la expectativa razonable de privacidad al tratar los datos personales y responsabilidad, la empresa debe responder por el tratamiento de los datos personales recolectados.</p>
+<p style="text-align: justify;">En G989 investigaciones y análisis no incitamos a la mala praxias del tratamiento de datos personales, más bien, invitamos a que las corporaciones y la industria privada en general ejecute planes de contrainteligencia corporativa en manos de personal calificado. Que sean capaces de mantener a salvo el patrimonio de la empresa previniendo ataques a través de trabajos de inteligencia, siempre actuando al margen en obediencia de la ley.</p>
+<p style="text-align: justify;">
+
+		</div>
+	</div>
+</div></div></div></div>
+<p>The post <a rel="nofollow" href="/G989/osint-en-la-inteligencia-y-contrainteligencia-corporativa/">Análisis OSINT aplicado en la contrainteligencia corporativa</a> appeared first on <a rel="nofollow" href="/G989">G989</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/G989/osint-en-la-inteligencia-y-contrainteligencia-corporativa/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
